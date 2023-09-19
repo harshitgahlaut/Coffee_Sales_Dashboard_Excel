@@ -1,21 +1,26 @@
 # ☕ Coffee Sales Dashboard
 
 ## Project Description
+
 The goal of this project is to create a dashboard of sales data for coffee store. The objective was crystal clear: transform raw data into actionable insights that drive smarter business decisions. The project involved a meticulous process, from collecting data to crafting visualizations that offer deep insights.
 
 ## Tech Stack Used 
+
 ![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
 
 ## Skills showcased in this Project
+
 - Data Cleaning, Data Transformation, Data Analysis
 - Filtering, Sorting and Excel Functions- Vlookup, IF
 - Pivot Tables and Pivot Chart
 - Data Visulisation and Dashboard creation
 
 ## Data Sourcing
+
 The dataset can be found on [Mo Chen](https://www.youtube.com/@datawithmo) 's YouTube Channel. I am grateful for his guidance on this project.
 
 ## Data Cleaning and Transformation
+
 This stage began with creating a working sheet and transforming the datasets presented in different sheets into "Tables". After this we start getting to explore the data and check for any data quality issues.
 1.	Checking NULL values, blanks and Errors.
 2.	Removing duplicates, and irrelevant columns.
@@ -24,9 +29,11 @@ This stage began with creating a working sheet and transforming the datasets pre
 5.	Created “Sales” column by calculation and “Coffee Type Name” and “Roast Type Name” columns by using IF function.
 
 ## Data Analysis
+
 3 pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between sales and other factors such as date, customers, country. 
 
 ## Data Visualization
+
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table on a separate sheet named “Dashboard”. For user friendly and interactive experience 3 "Slicers" and 1 “Timeline” were added.
 
 Below is a snippet of the final dashboard in Excel.
@@ -60,4 +67,5 @@ Below is a snippet of the final dashboard in Excel.
    While 2019 and 2020 saw nearly identical sales figures, 2021 witnessed a significant boost with a 13.6% increase compared to the previous year, reflecting a thriving coffee market.
 
     ## End
+   
     Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
